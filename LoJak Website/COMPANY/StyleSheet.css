@@ -1,0 +1,14 @@
+body{width:90%; margin:auto; background-color: rgb(0, 255, 255); text-align:center;}
+header{background-color:white; border:solid 0.5em black; border-radius: 1em; text-align:center; padding-top:1em; padding-bottom:1em; margin-top:1em; margin-bottom:1em;}
+footer{background-color:white; border-radius: 10px; border:solid 8px black; padding-top:1em; padding-bottom:1em; margin-top:1em; margin-bottom:1em;}
+header nav a{width:10%; text-align:center; text-decoration:none; background-color:red; color: white; border-radius: 0.5em; display:inline-block;}
+header nav a:hover{background-color: rgba(2, 200, 0, 0.9);}
+header nav a:active{background-color: rgba(12, 8, 248, 0.9);}
+li{text-align:center;  margin:auto; width:30em; font-family:cursive,system,sans-serif;}
+table{text-align:center; border:solid 0.5em black;  margin:auto; border-collapse:collapse; table-layout:fixed; width:10em; border-spacing:1em; font-family:cursive,system,sans-serif; padding-top:1em; padding-bottom:1em;padding-left:1em; padding-right:1em;}
+caption{caption-side:bottom; font-family:cursive,system,sans-serif; font-size:3em; background-color: rgba(215, 255, 80, 0.9);}
+tr th{background-color: rgba(215, 44, 255, 0.9); font-family:"snap itc",system,sans-serif; border:solid 1px black;}
+thead th{background-color: rgba(215, 44, 0, 0.9); font-family:"snap itc",system,sans-serif; border:solid 1px black;}
+td{background-color: rgba(215, 40, 40, 0.9); font-family:"snap itc",system,sans-serif; border:solid 1px black;}
+hr{border:solid 0.1em black;}
+#current{background-color: black;}
