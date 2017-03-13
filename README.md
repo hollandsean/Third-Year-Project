@@ -1,6 +1,6 @@
 # Automobile Management & Security System
 
-Third year college project to design and implement a prototype for acar security system with the following features:
+Third year college project to design and implement a prototype for a car security system with the following features:
 
 -	Anti-theft features:
     Automatic theft notification via SMS, 
