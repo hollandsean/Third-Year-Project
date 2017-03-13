@@ -9,8 +9,6 @@ $longitude = $_GET['longitude'];
 //$regNo = $_GET['regNo'];
 $user = $_GET['User'];
 $vehicle = $_GET['Vehicle'];
-/*TO-DO
-----Code here to get regNum uploaded from arduino*/
 //get date/time
 date_default_timezone_set('Europe/Dublin');
 $date = date('d-m-Y H:i:s');
