@@ -1,0 +1,13 @@
+The arduino programs depend on the following libraries:
+
+1Sheeld Library:
+https://1sheeld.com/wp-content/uploads/2017/01/OneSheeld.v1.12.0-1.zip
+
+NewPing Library:
+https://bitbucket.org/teckel12/arduino-new-ping/downloads/
+
+TimedAction Library:
+http://playground.arduino.cc/uploads/Code/TimedAction-1_6.zip
+
+ToneAC Library:
+https://bitbucket.org/teckel12/arduino-toneac/wiki/Home
